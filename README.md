@@ -1,5 +1,5 @@
 ### DEMO:
-
+https://hodler-buidler.github.io/sushi-dashboard/
 
 #### Development
 
