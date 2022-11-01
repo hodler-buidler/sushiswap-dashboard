@@ -1,0 +1,12 @@
+::selection {
+  background: rgba(#5294FF, 0.4);
+}
+
+body {
+  font-family: var(--ui-typography-fontFamily);
+  font-size: var(--ui-typography-fontSize);
+  font-weight: var(--ui-typography-fontWeight);
+  line-height: var(--ui-typography-lineHeight);
+  background: var(--ui-palette-bg-default);
+  color: var(--ui-palette-text-primary);
+}
